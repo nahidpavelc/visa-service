@@ -1,0 +1,15 @@
+.header-margin{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    /* text-decoration: underline; */
+    text-align: center;
+}
+.image-aboutus-banner {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 110px;
+    padding-bottom:110px;
+ }
